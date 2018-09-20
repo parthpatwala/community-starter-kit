@@ -15,6 +15,6 @@ There are many ways you can help us make this project better. Every repository i
 - **documentation-needed**: Proper documentation needed
 - **bug-high-priority**: High bug should be solved
 - **bug-low-priority**: Low priority bug can wait a little
-- **help-wanted**: Help wanted on particular topic
+- **help-wanted**: Help wanted on particular topics
 
 You can also help by translating documentation and reviewing open pull requests.
